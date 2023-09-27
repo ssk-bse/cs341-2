@@ -25,6 +25,7 @@ public class Calculator {
  
         // Take input from the user
         Scanner sc = new Scanner(System.in);
+        System.out.println("Bula...this is made by shivika and deeya");
  
         System.out.println("Enter the numbers:");
  
